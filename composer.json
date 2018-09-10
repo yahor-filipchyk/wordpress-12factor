@@ -31,7 +31,8 @@
 		"wpackagist-theme/twentyfifteen": "*",
 		"dzuelke/twentyfifteen-child": "*",
 		"wpackagist-theme/picolog": "^1.0.3",
-		"wpackagist-theme/rock-band": "^1.0.2"
+		"wpackagist-theme/rock-band": "^1.0.2",
+		"wpackagist-theme/coral-dark": "^1.1.0"
 	},
 	"scripts": {
 		"wordpress-setup-core-install-prompt": "wp core install --prompt",
